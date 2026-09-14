@@ -1,0 +1,647 @@
+"Cod_IBGE";"Grande região";"Município";"casos_acum";"obitos_acum"
+3500105;"Interior";"Adamantina";12262;196
+3500204;"Interior";"Adolfo";1369;28
+3500303;"Interior";"Aguaí";8382;143
+3500402;"Interior";"Águas da Prata";2395;41
+3500501;"Interior";"Águas de Lindóia";5929;70
+3500550;"Interior";"Águas de Santa Bárbara";626;25
+3500600;"Interior";"Águas de São Pedro";490;17
+3500709;"Interior";"Agudos";9486;124
+3500758;"Interior";"Alambari";1755;13
+3500808;"Interior";"Alfredo Marcondes";327;24
+3500907;"Interior";"Altair";329;18
+3501004;"Interior";"Altinópolis";1253;70
+3501103;"Interior";"Alto Alegre";425;30
+3501152;"Interior";"Alumínio";2287;56
+3501202;"Interior";"Álvares Florence";663;20
+3501301;"Interior";"Álvares Machado";4624;97
+3501400;"Interior";"Álvaro de Carvalho";358;9
+3501509;"Interior";"Alvinlândia";159;11
+3501608;"Interior";"Americana";29916;1061
+3501707;"Interior";"Américo Brasiliense";8276;117
+3501806;"Interior";"Américo de Campos";1299;41
+3501905;"Interior";"Amparo";10685;270
+3502002;"Interior";"Analândia";890;6
+3502101;"Interior";"Andradina";16546;327
+3502200;"Interior";"Angatuba";6756;101
+3502309;"Interior";"Anhembi";476;16
+3502408;"Interior";"Anhumas";416;10
+3502507;"Interior";"Aparecida";3019;130
+3502606;"Interior";"Aparecida d'Oeste";2059;29
+3502705;"Interior";"Apiaí";1815;112
+3502754;"Interior";"Araçariguama";3393;81
+3502804;"Interior";"Araçatuba";50147;1044
+3502903;"Interior";"Araçoiaba da Serra";3329;108
+3503000;"Interior";"Aramina";398;21
+3503109;"Interior";"Arandu";670;23
+3503158;"Interior";"Arapeí";277;7
+3503208;"Interior";"Araraquara";76729;720
+3503307;"Interior";"Araras";20538;473
+3503356;"Interior";"Arco-Íris";728;10
+3503406;"Interior";"Arealva";2392;33
+3503505;"Interior";"Areias";402;7
+3503604;"Interior";"Areiópolis";2429;33
+3503703;"Interior";"Ariranha";1033;37
+3503802;"Interior";"Artur Nogueira";9549;169
+3503901;"RMSP (exceto capital)";"Arujá";12929;369
+3503950;"Interior";"Aspásia";679;13
+3504008;"Interior";"Assis";27690;506
+3504107;"Interior";"Atibaia";13551;532
+3504206;"Interior";"Auriflama";2592;92
+3504305;"Interior";"Avaí";848;14
+3504404;"Interior";"Avanhandava";2001;51
+3504503;"Interior";"Avaré";15954;338
+3504602;"Interior";"Bady Bassitt";5684;106
+3504701;"Interior";"Balbinos";840;4
+3504800;"Interior";"Bálsamo";3375;79
+3504909;"Interior";"Bananal";1170;11
+3505005;"Interior";"Barão de Antonina";1133;11
+3505104;"Interior";"Barbosa";993;26
+3505203;"Interior";"Bariri";8826;161
+3505302;"Interior";"Barra Bonita";5688;131
+3505351;"Interior";"Barra do Chapéu";469;16
+3505401;"Interior";"Barra do Turvo";919;27
+3505500;"Interior";"Barretos";35004;674
+3505609;"Interior";"Barrinha";1789;98
+3505708;"RMSP (exceto capital)";"Barueri";52834;1291
+3505807;"Interior";"Bastos";4162;105
+3505906;"Interior";"Batatais";7125;214
+3506003;"Interior";"Bauru";97962;1542
+3506102;"Interior";"Bebedouro";6259;369
+3506201;"Interior";"Bento de Abreu";695;6
+3506300;"Interior";"Bernardino de Campos";2076;42
+3506359;"Interior";"Bertioga";11957;208
+3506409;"Interior";"Bilac";973;27
+3506508;"Interior";"Birigui";32627;669
+3506607;"RMSP (exceto capital)";"Biritiba Mirim";1606;122
+3506706;"Interior";"Boa Esperança do Sul";2716;33
+3506805;"Interior";"Bocaina";2591;41
+3506904;"Interior";"Bofete";3066;30
+3507001;"Interior";"Boituva";7146;221
+3507100;"Interior";"Bom Jesus dos Perdões";2575;61
+3507159;"Interior";"Bom Sucesso de Itararé";787;7
+3507209;"Interior";"Borá";237;2
+3507308;"Interior";"Boracéia";1081;28
+3507407;"Interior";"Borborema";5254;64
+3507456;"Interior";"Borebi";315;4
+3507506;"Interior";"Botucatu";61464;427
+3507605;"Interior";"Bragança Paulista";51741;664
+3507704;"Interior";"Braúna";640;28
+3507753;"Interior";"Brejo Alegre";949;14
+3507803;"Interior";"Brodowski";5284;90
+3507902;"Interior";"Brotas";8128;78
+3508009;"Interior";"Buri";4940;109
+3508108;"Interior";"Buritama";6403;92
+3508207;"Interior";"Buritizal";360;10
+3508306;"Interior";"Cabrália Paulista";1410;9
+3508405;"Interior";"Cabreúva";8809;163
+3508504;"Interior";"Caçapava";18123;348
+3508603;"Interior";"Cachoeira Paulista";6208;79
+3508702;"Interior";"Caconde";3985;47
+3508801;"Interior";"Cafelândia";943;62
+3508900;"Interior";"Caiabu";340;9
+3509007;"RMSP (exceto capital)";"Caieiras";15154;376
+3509106;"Interior";"Caiuá";538;12
+3509205;"RMSP (exceto capital)";"Cajamar";5710;276
+3509254;"Interior";"Cajati";7339;119
+3509304;"Interior";"Cajobi";2433;39
+3509403;"Interior";"Cajuru";2193;91
+3509452;"Interior";"Campina do Monte Alegre";648;29
+3509502;"Interior";"Campinas";239021;5705
+3509601;"Interior";"Campo Limpo Paulista";11289;321
+3509700;"Interior";"Campos do Jordão";13983;169
+3509809;"Interior";"Campos Novos Paulista";329;14
+3509908;"Interior";"Cananéia";2654;39
+3509957;"Interior";"Canas";245;9
+3510005;"Interior";"Cândido Mota";8446;190
+3510104;"Interior";"Cândido Rodrigues";160;8
+3510153;"Interior";"Canitar";1670;30
+3510203;"Interior";"Capão Bonito";11094;183
+3510302;"Interior";"Capela do Alto";1754;57
+3510401;"Interior";"Capivari";5982;198
+3510500;"Interior";"Caraguatatuba";39994;561
+3510609;"RMSP (exceto capital)";"Carapicuíba";48358;1315
+3510708;"Interior";"Cardoso";4151;73
+3510807;"Interior";"Casa Branca";7106;136
+3510906;"Interior";"Cássia dos Coqueiros";260;4
+3511003;"Interior";"Castilho";4838;103
+3511102;"Interior";"Catanduva";42027;772
+3511201;"Interior";"Catiguá";936;45
+3511300;"Interior";"Cedral";4311;41
+3511409;"Interior";"Cerqueira César";4217;64
+3511508;"Interior";"Cerquilho";16715;182
+3511607;"Interior";"Cesário Lange";4807;98
+3511706;"Interior";"Charqueada";4423;57
+3511904;"Interior";"Clementina";982;25
+3512001;"Interior";"Colina";2631;75
+3512100;"Interior";"Colômbia";1461;24
+3512209;"Interior";"Conchal";5274;98
+3512308;"Interior";"Conchas";3984;88
+3512407;"Interior";"Cordeirópolis";6041;118
+3512506;"Interior";"Coroados";1587;25
+3512605;"Interior";"Coronel Macedo";697;30
+3512704;"Interior";"Corumbataí";1098;9
+3512803;"Interior";"Cosmópolis";8060;200
+3512902;"Interior";"Cosmorama";2369;50
+3513009;"RMSP (exceto capital)";"Cotia";33605;843
+3513108;"Interior";"Cravinhos";2467;122
+3513207;"Interior";"Cristais Paulista";1310;22
+3513306;"Interior";"Cruzália";227;5
+3513405;"Interior";"Cruzeiro";7253;252
+3513504;"Interior";"Cubatão";18116;556
+3513603;"Interior";"Cunha";1212;49
+3513702;"Interior";"Descalvado";9617;111
+3513801;"RMSP (exceto capital)";"Diadema";31759;1618
+3513850;"Interior";"Dirce Reis";334;7
+3513900;"Interior";"Divinolândia";2297;53
+3514007;"Interior";"Dobrada";654;13
+3514106;"Interior";"Dois Córregos";2102;46
+3514205;"Interior";"Dolcinópolis";567;9
+3514304;"Interior";"Dourado";2891;28
+3514403;"Interior";"Dracena";13368;315
+3514502;"Interior";"Duartina";2445;36
+3514601;"Interior";"Dumont";2872;31
+3514700;"Interior";"Echaporã";825;29
+3514809;"Interior";"Eldorado";3434;35
+3514908;"Interior";"Elias Fausto";2814;42
+3514924;"Interior";"Elisiário";635;13
+3514957;"Interior";"Embaúba";226;11
+3515004;"RMSP (exceto capital)";"Embu das Artes";11392;783
+3515103;"RMSP (exceto capital)";"Embu-Guaçu";5957;245
+3515129;"Interior";"Emilianópolis";954;10
+3515152;"Interior";"Engenheiro Coelho";4667;67
+3515186;"Interior";"Espírito Santo do Pinhal";16388;152
+3515194;"Interior";"Espírito Santo do Turvo";825;13
+3515202;"Interior";"Estrela d'Oeste";3469;41
+3515301;"Interior";"Estrela do Norte";876;9
+3515350;"Interior";"Euclides da Cunha Paulista";544;20
+3515400;"Interior";"Fartura";4479;68
+3515509;"Interior";"Fernandópolis";19987;433
+3515608;"Interior";"Fernando Prestes";1604;16
+3515657;"Interior";"Fernão";798;5
+3515707;"RMSP (exceto capital)";"Ferraz de Vasconcelos";10750;546
+3515806;"Interior";"Flora Rica";154;10
+3515905;"Interior";"Floreal";1141;11
+3516002;"Interior";"Flórida Paulista";3910;50
+3516101;"Interior";"Florínea";448;18
+3516200;"Interior";"Franca";39520;1360
+3516309;"RMSP (exceto capital)";"Francisco Morato";16070;481
+3516408;"RMSP (exceto capital)";"Franco da Rocha";19080;459
+3516507;"Interior";"Gabriel Monteiro";1246;8
+3516606;"Interior";"Gália";1154;24
+3516705;"Interior";"Garça";13607;178
+3516804;"Interior";"Gastão Vidigal";655;18
+3516853;"Interior";"Gavião Peixoto";2385;24
+3516903;"Interior";"General Salgado";1628;52
+3517000;"Interior";"Getulina";1096;38
+3517109;"Interior";"Glicério";1534;24
+3517208;"Interior";"Guaiçara";1980;31
+3517307;"Interior";"Guaimbê";1092;9
+3517406;"Interior";"Guaíra";10675;248
+3517505;"Interior";"Guapiaçu";2643;104
+3517604;"Interior";"Guapiara";3318;96
+3517703;"Interior";"Guará";4141;118
+3517802;"Interior";"Guaraçaí";1748;31
+3517901;"Interior";"Guaraci";2815;32
+3518008;"Interior";"Guarani d'Oeste";1081;9
+3518107;"Interior";"Guarantã";332;25
+3518206;"Interior";"Guararapes";10715;139
+3518305;"RMSP (exceto capital)";"Guararema";2611;111
+3518404;"Interior";"Guaratinguetá";18576;405
+3518503;"Interior";"Guareí";4702;42
+3518602;"Interior";"Guariba";5749;132
+3518701;"Interior";"Guarujá";35514;1659
+3518800;"RMSP (exceto capital)";"Guarulhos";116023;5732
+3518859;"Interior";"Guatapará";1252;30
+3518909;"Interior";"Guzolândia";974;34
+3519006;"Interior";"Herculândia";1265;35
+3519055;"Interior";"Holambra";4095;26
+3519071;"Interior";"Hortolândia";42638;906
+3519105;"Interior";"Iacanga";2038;35
+3519204;"Interior";"Iacri";1849;27
+3519253;"Interior";"Iaras";306;24
+3519303;"Interior";"Ibaté";6545;113
+3519402;"Interior";"Ibirá";3095;54
+3519501;"Interior";"Ibirarema";1235;41
+3519600;"Interior";"Ibitinga";16003;317
+3519709;"Interior";"Ibiúna";5392;173
+3519808;"Interior";"Icém";2158;41
+3519907;"Interior";"Iepê";2132;36
+3520004;"Interior";"Igaraçu do Tietê";6309;76
+3520103;"Interior";"Igarapava";1420;112
+3520202;"Interior";"Igaratá";2466;44
+3520301;"Interior";"Iguape";6085;128
+3520400;"Interior";"Ilhabela";7498;56
+3520426;"Interior";"Ilha Comprida";4818;65
+3520442;"Interior";"Ilha Solteira";4547;123
+3520509;"Interior";"Indaiatuba";28795;917
+3520608;"Interior";"Indiana";542;14
+3520707;"Interior";"Indiaporã";1494;16
+3520806;"Interior";"Inúbia Paulista";1444;22
+3520905;"Interior";"Ipaussu";4790;58
+3521002;"Interior";"Iperó";6788;82
+3521101;"Interior";"Ipeúna";789;25
+3521150;"Interior";"Ipiguá";2129;33
+3521200;"Interior";"Iporanga";956;9
+3521309;"Interior";"Ipuã";2929;74
+3521408;"Interior";"Iracemápolis";6999;113
+3521507;"Interior";"Irapuã";1632;35
+3521606;"Interior";"Irapuru";2165;46
+3521705;"Interior";"Itaberá";6418;87
+3521804;"Interior";"Itaí";8118;95
+3521903;"Interior";"Itajobi";6057;76
+3522000;"Interior";"Itaju";1097;14
+3522109;"Interior";"Itanhaém";16037;432
+3522158;"Interior";"Itaoca";288;9
+3522208;"RMSP (exceto capital)";"Itapecerica da Serra";15625;509
+3522307;"Interior";"Itapetininga";18334;621
+3522406;"Interior";"Itapeva";25325;486
+3522505;"RMSP (exceto capital)";"Itapevi";13190;797
+3522604;"Interior";"Itapira";20763;390
+3522653;"Interior";"Itapirapuã Paulista";1374;8
+3522703;"Interior";"Itápolis";15572;192
+3522802;"Interior";"Itaporanga";3507;62
+3522901;"Interior";"Itapuí";2657;50
+3523008;"Interior";"Itapura";695;17
+3523107;"RMSP (exceto capital)";"Itaquaquecetuba";33241;1187
+3523206;"Interior";"Itararé";11783;281
+3523305;"Interior";"Itariri";1999;55
+3523404;"Interior";"Itatiba";31765;398
+3523503;"Interior";"Itatinga";4740;71
+3523602;"Interior";"Itirapina";3198;52
+3523701;"Interior";"Itirapuã";326;8
+3523800;"Interior";"Itobi";1414;24
+3523909;"Interior";"Itu";40666;612
+3524006;"Interior";"Itupeva";10352;175
+3524105;"Interior";"Ituverava";4010;166
+3524204;"Interior";"Jaborandi";624;25
+3524303;"Interior";"Jaboticabal";9689;298
+3524402;"Interior";"Jacareí";33513;968
+3524501;"Interior";"Jaci";2865;35
+3524600;"Interior";"Jacupiranga";3586;67
+3524709;"Interior";"Jaguariúna";15537;219
+3524808;"Interior";"Jales";17882;327
+3524907;"Interior";"Jambeiro";559;18
+3525003;"RMSP (exceto capital)";"Jandira";9901;375
+3525102;"Interior";"Jardinópolis";5312;175
+3525201;"Interior";"Jarinu";4122;101
+3525300;"Interior";"Jaú";25725;630
+3525409;"Interior";"Jeriquara";647;3
+3525508;"Interior";"Joanópolis";1592;21
+3525607;"Interior";"João Ramalho";1288;15
+3525706;"Interior";"José Bonifácio";10178;181
+3525805;"Interior";"Júlio Mesquita";370;16
+3525854;"Interior";"Jumirim";698;8
+3525904;"Interior";"Jundiaí";74624;1895
+3526001;"Interior";"Junqueirópolis";5618;115
+3526100;"Interior";"Juquiá";3554;72
+3526209;"RMSP (exceto capital)";"Juquitiba";1841;88
+3526308;"Interior";"Lagoinha";256;16
+3526407;"Interior";"Laranjal Paulista";6403;148
+3526506;"Interior";"Lavínia";1798;22
+3526605;"Interior";"Lavrinhas";394;16
+3526704;"Interior";"Leme";24579;482
+3526803;"Interior";"Lençóis Paulista";27036;221
+3526902;"Interior";"Limeira";44020;1339
+3527009;"Interior";"Lindóia";3719;24
+3527108;"Interior";"Lins";16944;351
+3527207;"Interior";"Lorena";8072;297
+3527256;"Interior";"Lourdes";515;6
+3527306;"Interior";"Louveira";12922;134
+3527405;"Interior";"Lucélia";4847;87
+3527504;"Interior";"Lucianópolis";506;6
+3527603;"Interior";"Luís Antônio";3710;48
+3527702;"Interior";"Luiziânia";575;16
+3527801;"Interior";"Lupércio";280;10
+3527900;"Interior";"Lutécia";964;9
+3528007;"Interior";"Macatuba";5420;64
+3528106;"Interior";"Macaubal";1914;25
+3528205;"Interior";"Macedônia";1242;32
+3528304;"Interior";"Magda";1011;12
+3528403;"Interior";"Mairinque";5316;95
+3528502;"RMSP (exceto capital)";"Mairiporã";7635;293
+3528601;"Interior";"Manduri";1001;33
+3528700;"Interior";"Marabá Paulista";1037;6
+3528809;"Interior";"Maracaí";3607;58
+3528858;"Interior";"Marapoama";1393;15
+3528908;"Interior";"Mariápolis";1406;13
+3529005;"Interior";"Marília";58681;1223
+3529104;"Interior";"Marinópolis";888;7
+3529203;"Interior";"Martinópolis";2690;105
+3529302;"Interior";"Matão";9240;246
+3529401;"RMSP (exceto capital)";"Mauá";39241;1724
+3529500;"Interior";"Mendonça";2410;37
+3529609;"Interior";"Meridiano";825;42
+3529658;"Interior";"Mesópolis";726;7
+3529708;"Interior";"Miguelópolis";1548;111
+3529807;"Interior";"Mineiros do Tietê";2497;35
+3529906;"Interior";"Miracatu";3691;86
+3530003;"Interior";"Mira Estrela";640;17
+3530102;"Interior";"Mirandópolis";2309;122
+3530201;"Interior";"Mirante do Paranapanema";2984;53
+3530300;"Interior";"Mirassol";10668;341
+3530409;"Interior";"Mirassolândia";792;23
+3530508;"Interior";"Mococa";15338;305
+3530607;"RMSP (exceto capital)";"Mogi das Cruzes";56711;1941
+3530706;"Interior";"Mogi Guaçu";41117;756
+3530805;"Interior";"Mogi Mirim";27591;439
+3530904;"Interior";"Mombuca";470;11
+3531001;"Interior";"Monções";586;8
+3531100;"Interior";"Mongaguá";5822;117
+3531209;"Interior";"Monte Alegre do Sul";1900;24
+3531308;"Interior";"Monte Alto";11182;246
+3531407;"Interior";"Monte Aprazível";5051;126
+3531506;"Interior";"Monte Azul Paulista";2403;30
+3531605;"Interior";"Monte Castelo";1760;25
+3531704;"Interior";"Monteiro Lobato";335;14
+3531803;"Interior";"Monte Mor";8650;179
+3531902;"Interior";"Morro Agudo";6416;124
+3532009;"Interior";"Morungaba";1094;42
+3532058;"Interior";"Motuca";382;11
+3532108;"Interior";"Murutinga do Sul";1231;22
+3532157;"Interior";"Nantes";260;8
+3532207;"Interior";"Narandiba";2040;25
+3532306;"Interior";"Natividade da Serra";262;17
+3532405;"Interior";"Nazaré Paulista";3278;71
+3532504;"Interior";"Neves Paulista";2795;67
+3532603;"Interior";"Nhandeara";3431;60
+3532702;"Interior";"Nipoã";564;21
+3532801;"Interior";"Nova Aliança";1597;35
+3532827;"Interior";"Nova Campina";1391;46
+3532843;"Interior";"Nova Canaã Paulista";861;10
+3532868;"Interior";"Nova Castilho";324;4
+3532900;"Interior";"Nova Europa";886;32
+3533007;"Interior";"Nova Granada";7063;92
+3533106;"Interior";"Nova Guataporanga";172;6
+3533205;"Interior";"Nova Independência";1864;8
+3533254;"Interior";"Novais";326;21
+3533304;"Interior";"Nova Luzitânia";397;15
+3533403;"Interior";"Nova Odessa";11817;287
+3533502;"Interior";"Novo Horizonte";6712;252
+3533601;"Interior";"Nuporanga";428;17
+3533700;"Interior";"Ocauçu";955;9
+3533809;"Interior";"Óleo";163;6
+3533908;"Interior";"Olímpia";15878;331
+3534005;"Interior";"Onda Verde";1003;31
+3534104;"Interior";"Oriente";447;30
+3534203;"Interior";"Orindiúva";2525;21
+3534302;"Interior";"Orlândia";8838;136
+3534401;"RMSP (exceto capital)";"Osasco";51237;3305
+3534500;"Interior";"Oscar Bressane";733;11
+3534609;"Interior";"Osvaldo Cruz";10678;145
+3534708;"Interior";"Ourinhos";28230;607
+3534757;"Interior";"Ouroeste";3111;54
+3534807;"Interior";"Ouro Verde";1250;42
+3534906;"Interior";"Pacaembu";4348;62
+3535002;"Interior";"Palestina";2923;52
+3535101;"Interior";"Palmares Paulista";2636;47
+3535200;"Interior";"Palmeira d'Oeste";2984;47
+3535309;"Interior";"Palmital";5019;84
+3535408;"Interior";"Panorama";4781;85
+3535507;"Interior";"Paraguaçu Paulista";10784;182
+3535606;"Interior";"Paraibuna";1363;60
+3535705;"Interior";"Paraíso";1396;31
+3535804;"Interior";"Paranapanema";2208;92
+3535903;"Interior";"Paranapuã";1504;31
+3536000;"Interior";"Parapuã";1624;56
+3536109;"Interior";"Pardinho";1235;19
+3536208;"Interior";"Pariquera-Açu";4580;77
+3536257;"Interior";"Parisi";1133;20
+3536307;"Interior";"Patrocínio Paulista";1153;47
+3536406;"Interior";"Paulicéia";2160;28
+3536505;"Interior";"Paulínia";27834;363
+3536570;"Interior";"Paulistânia";216;7
+3536604;"Interior";"Paulo de Faria";1732;46
+3536703;"Interior";"Pederneiras";11162;148
+3536802;"Interior";"Pedra Bela";304;12
+3536901;"Interior";"Pedranópolis";281;13
+3537008;"Interior";"Pedregulho";403;31
+3537107;"Interior";"Pedreira";6429;156
+3537156;"Interior";"Pedrinhas Paulista";782;15
+3537206;"Interior";"Pedro de Toledo";1190;26
+3537305;"Interior";"Penápolis";22248;339
+3537404;"Interior";"Pereira Barreto";5953;120
+3537503;"Interior";"Pereiras";1220;24
+3537602;"Interior";"Peruíbe";13385;320
+3537701;"Interior";"Piacatu";2103;12
+3537800;"Interior";"Piedade";9472;193
+3537909;"Interior";"Pilar do Sul";6964;96
+3538006;"Interior";"Pindamonhangaba";44587;629
+3538105;"Interior";"Pindorama";4512;74
+3538204;"Interior";"Pinhalzinho";2745;43
+3538303;"Interior";"Piquerobi";270;9
+3538501;"Interior";"Piquete";420;35
+3538600;"Interior";"Piracaia";6193;106
+3538709;"Interior";"Piracicaba";110099;1725
+3538808;"Interior";"Piraju";8524;129
+3538907;"Interior";"Pirajuí";5135;77
+3539004;"Interior";"Pirangi";3382;76
+3539103;"RMSP (exceto capital)";"Pirapora do Bom Jesus";1684;29
+3539202;"Interior";"Pirapozinho";4484;96
+3539301;"Interior";"Pirassununga";21511;324
+3539400;"Interior";"Piratininga";2369;53
+3539509;"Interior";"Pitangueiras";9092;201
+3539608;"Interior";"Planalto";1496;14
+3539707;"Interior";"Platina";787;12
+3539806;"RMSP (exceto capital)";"Poá";13305;458
+3539905;"Interior";"Poloni";2127;26
+3540002;"Interior";"Pompéia";1078;68
+3540101;"Interior";"Pongaí";402;12
+3540200;"Interior";"Pontal";9076;188
+3540259;"Interior";"Pontalinda";609;21
+3540309;"Interior";"Pontes Gestal";992;12
+3540408;"Interior";"Populina";1563;23
+3540507;"Interior";"Porangaba";1258;30
+3540606;"Interior";"Porto Feliz";14889;206
+3540705;"Interior";"Porto Ferreira";18239;222
+3540754;"Interior";"Potim";3823;41
+3540804;"Interior";"Potirendaba";6144;103
+3540853;"Interior";"Pracinha";600;7
+3540903;"Interior";"Pradópolis";2070;50
+3541000;"Interior";"Praia Grande";40130;1402
+3541059;"Interior";"Pratânia";1703;19
+3541109;"Interior";"Presidente Alves";734;12
+3541208;"Interior";"Presidente Bernardes";1445;54
+3541307;"Interior";"Presidente Epitácio";7455;154
+3541406;"Interior";"Presidente Prudente";44271;1117
+3541505;"Interior";"Presidente Venceslau";6700;144
+3541604;"Interior";"Promissão";10627;136
+3541653;"Interior";"Quadra";276;10
+3541703;"Interior";"Quatá";2988;33
+3541802;"Interior";"Queiroz";1062;3
+3541901;"Interior";"Queluz";1096;33
+3542008;"Interior";"Quintana";596;35
+3542107;"Interior";"Rafard";1177;18
+3542206;"Interior";"Rancharia";8241;125
+3542305;"Interior";"Redenção da Serra";135;9
+3542404;"Interior";"Regente Feijó";2490;83
+3542503;"Interior";"Reginópolis";1082;27
+3542602;"Interior";"Registro";13731;263
+3542701;"Interior";"Restinga";733;11
+3542800;"Interior";"Ribeira";539;9
+3542909;"Interior";"Ribeirão Bonito";1837;36
+3543006;"Interior";"Ribeirão Branco";2866;72
+3543105;"Interior";"Ribeirão Corrente";349;6
+3543204;"Interior";"Ribeirão do Sul";723;27
+3543238;"Interior";"Ribeirão dos Índios";119;8
+3543253;"Interior";"Ribeirão Grande";535;30
+3543303;"RMSP (exceto capital)";"Ribeirão Pires";16158;421
+3543402;"Interior";"Ribeirão Preto";114202;3636
+3543501;"Interior";"Riversul";1049;33
+3543600;"Interior";"Rifaina";1191;14
+3543709;"Interior";"Rincão";2443;51
+3543808;"Interior";"Rinópolis";678;23
+3543907;"Interior";"Rio Claro";14064;742
+3544004;"Interior";"Rio das Pedras";3771;122
+3544103;"RMSP (exceto capital)";"Rio Grande da Serra";2446;110
+3544202;"Interior";"Riolândia";3096;34
+3544251;"Interior";"Rosana";5459;58
+3544301;"Interior";"Roseira";1619;33
+3544400;"Interior";"Rubiácea";744;11
+3544509;"Interior";"Rubinéia";1597;20
+3544608;"Interior";"Sabino";325;34
+3544707;"Interior";"Sagres";268;4
+3544806;"Interior";"Sales";1430;51
+3544905;"Interior";"Sales Oliveira";1869;35
+3545001;"RMSP (exceto capital)";"Salesópolis";725;65
+3545100;"Interior";"Salmourão";556;26
+3545159;"Interior";"Saltinho";2581;27
+3545209;"Interior";"Salto";27530;542
+3545308;"Interior";"Salto de Pirapora";4484;191
+3545407;"Interior";"Salto Grande";2101;19
+3545506;"Interior";"Sandovalina";965;17
+3545605;"Interior";"Santa Adélia";3264;76
+3545704;"Interior";"Santa Albertina";2721;31
+3545803;"Interior";"Santa Bárbara d'Oeste";40090;941
+3546009;"Interior";"Santa Branca";2294;40
+3546108;"Interior";"Santa Clara d'Oeste";634;26
+3546207;"Interior";"Santa Cruz da Conceição";2217;18
+3546256;"Interior";"Santa Cruz da Esperança";206;8
+3546306;"Interior";"Santa Cruz das Palmeiras";6071;140
+3546405;"Interior";"Santa Cruz do Rio Pardo";9495;216
+3546504;"Interior";"Santa Ernestina";577;22
+3546603;"Interior";"Santa Fé do Sul";10526;172
+3546702;"Interior";"Santa Gertrudes";3949;89
+3546801;"RMSP (exceto capital)";"Santa Isabel";10484;303
+3546900;"Interior";"Santa Lúcia";815;27
+3547007;"Interior";"Santa Maria da Serra";1367;12
+3547106;"Interior";"Santa Mercedes";1008;11
+3547205;"Interior";"Santana da Ponte Pensa";580;6
+3547304;"RMSP (exceto capital)";"Santana de Parnaíba";29979;454
+3547403;"Interior";"Santa Rita d'Oeste";470;18
+3547502;"Interior";"Santa Rita do Passa Quatro";1857;51
+3547601;"Interior";"Santa Rosa de Viterbo";2518;61
+3547650;"Interior";"Santa Salete";790;9
+3547700;"Interior";"Santo Anastácio";4107;73
+3547809;"RMSP (exceto capital)";"Santo André";109732;3636
+3547908;"Interior";"Santo Antônio da Alegria";687;26
+3548005;"Interior";"Santo Antônio de Posse";5066;75
+3548054;"Interior";"Santo Antônio do Aracanguá";593;40
+3548104;"Interior";"Santo Antônio do Jardim";1524;26
+3548203;"Interior";"Santo Antônio do Pinhal";1606;11
+3548302;"Interior";"Santo Expedito";216;11
+3548401;"Interior";"Santópolis do Aguapeí";762;19
+3548500;"Interior";"Santos";88353;2706
+3548609;"Interior";"São Bento do Sapucaí";824;14
+3548708;"RMSP (exceto capital)";"São Bernardo do Campo";79154;3951
+3548807;"RMSP (exceto capital)";"São Caetano do Sul";39792;1218
+3548906;"Interior";"São Carlos";38448;670
+3549003;"Interior";"São Francisco";948;22
+3549102;"Interior";"São João da Boa Vista";28354;418
+3549201;"Interior";"São João das Duas Pontes";833;11
+3549250;"Interior";"São João de Iracema";944;10
+3549300;"Interior";"São João do Pau d'Alho";306;4
+3549409;"Interior";"São Joaquim da Barra";7482;192
+3549508;"Interior";"São José da Bela Vista";342;23
+3549607;"Interior";"São José do Barreiro";765;9
+3549706;"Interior";"São José do Rio Pardo";8045;191
+3549805;"Interior";"São José do Rio Preto";170221;3309
+3549904;"Interior";"São José dos Campos";138714;2508
+3549953;"RMSP (exceto capital)";"São Lourenço da Serra";720;43
+3550001;"Interior";"São Luiz do Paraitinga";991;40
+3550100;"Interior";"São Manuel";6762;181
+3550209;"Interior";"São Miguel Arcanjo";5203;94
+3550308;"Capital";"São Paulo";1217401;46347
+3550407;"Interior";"São Pedro";11399;127
+3550506;"Interior";"São Pedro do Turvo";1027;18
+3550605;"Interior";"São Roque";7246;140
+3550704;"Interior";"São Sebastião";8939;211
+3550803;"Interior";"São Sebastião da Grama";2895;40
+3550902;"Interior";"São Simão";1702;39
+3551009;"Interior";"São Vicente";33398;1485
+3551108;"Interior";"Sarapuí";528;7
+3551207;"Interior";"Sarutaiá";156;23
+3551306;"Interior";"Sebastianópolis do Sul";384;12
+3551405;"Interior";"Serra Azul";1478;23
+3551504;"Interior";"Serrana";12137;156
+3551603;"Interior";"Serra Negra";7612;109
+3551702;"Interior";"Sertãozinho";20356;586
+3551801;"Interior";"Sete Barras";3163;49
+3551900;"Interior";"Severínia";3104;87
+3552007;"Interior";"Silveiras";571;11
+3552106;"Interior";"Socorro";7056;116
+3552205;"Interior";"Sorocaba";117028;3324
+3552304;"Interior";"Sud Mennucci";967;25
+3552403;"Interior";"Sumaré";44436;1027
+3552502;"Interior";"Suzano";31445;1067
+3552551;"Interior";"Suzanápolis";511;13
+3552601;"Interior";"Tabapuã";3394;79
+3552700;"Interior";"Tabatinga";3069;62
+3552809;"Interior";"Taboão da Serra";20129;1073
+3552908;"Interior";"Taciba";872;29
+3553005;"Interior";"Taguaí";3511;48
+3553104;"Interior";"Taiaçu";1666;20
+3553203;"Interior";"Taiúva";1115;21
+3553302;"Interior";"Tambaú";5894;66
+3553401;"Interior";"Tanabi";7453;143
+3553500;"Interior";"Tapiraí";871;11
+3553609;"Interior";"Tapiratiba";3103;44
+3553658;"Interior";"Taquaral";460;13
+3553708;"Interior";"Taquaritinga";15503;262
+3553807;"Interior";"Taquarituba";7625;124
+3553856;"Interior";"Taquarivaí";1110;22
+3553906;"Interior";"Tarabai";1146;36
+3553955;"Interior";"Tarumã";1834;58
+3554003;"Interior";"Tatuí";23054;545
+3554102;"Interior";"Taubaté";43942;1267
+3554201;"Interior";"Tejupá";438;13
+3554300;"Interior";"Teodoro Sampaio";4123;61
+3554409;"Interior";"Terra Roxa";1410;40
+3554508;"Interior";"Tietê";9394;137
+3554607;"Interior";"Timburi";912;16
+3554656;"Interior";"Torre de Pedra";244;14
+3554706;"Interior";"Torrinha";4391;28
+3554755;"Interior";"Trabiju";459;5
+3554805;"Interior";"Tremembé";3098;76
+3554904;"Interior";"Três Fronteiras";2169;39
+3554953;"Interior";"Tuiuti";1336;23
+3555000;"Interior";"Tupã";8352;355
+3555109;"Interior";"Tupi Paulista";4607;60
+3555208;"Interior";"Turiúba";572;4
+3555307;"Interior";"Turmalina";687;7
+3555356;"Interior";"Ubarana";1848;26
+3555406;"Interior";"Ubatuba";14073;169
+3555505;"Interior";"Ubirajara";584;16
+3555604;"Interior";"Uchoa";2248;47
+3555703;"Interior";"União Paulista";353;8
+3555802;"Interior";"Urânia";4214;53
+3555901;"Interior";"Uru";452;6
+3556008;"Interior";"Urupês";1016;62
+3556107;"Interior";"Valentim Gentil";5781;81
+3556206;"Interior";"Valinhos";26924;577
+3556305;"Interior";"Valparaíso";6078;91
+3556354;"Interior";"Vargem";665;28
+3556404;"Interior";"Vargem Grande do Sul";6941;125
+3556453;"RMSP (exceto capital)";"Vargem Grande Paulista";7405;146
+3556503;"Interior";"Várzea Paulista";14738;318
+3556602;"Interior";"Vera Cruz";734;51
+3556701;"Interior";"Vinhedo";19121;263
+3556800;"Interior";"Viradouro";4492;120
+3556909;"Interior";"Vista Alegre do Alto";1953;25
+3556958;"Interior";"Vitória Brasil";774;11
+3557006;"Interior";"Votorantim";12629;587
+3557105;"Interior";"Votuporanga";35173;526
+3557154;"Interior";"Zacarias";442;14
+3557204;"Interior";"Chavantes";2830;64
+3557303;"Interior";"Estiva Gerbi";1307;37
+9999999;NA;"Ignorado";269;0
