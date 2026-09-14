@@ -2,7 +2,7 @@
 
 Análise temporal e espacial da pandemia de COVID-19 no Estado de São Paulo (2020–2023), com componentes de aprendizado de máquina para identificar padrões municipais e antecipar picos.
 
-**Projeto Integrador em Computação IV (PJI410)** — Universidade Virtual do Estado de São Paulo (Univesp)
+**Projeto Integrador em Computação IV (PJI410)** - Universidade Virtual do Estado de São Paulo (Univesp)
 
 ## O Aplicativo:
 
