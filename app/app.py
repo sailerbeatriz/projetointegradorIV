@@ -29,7 +29,7 @@ DADOS = Path(__file__).parent / "dados"
 AZUL, LARANJA, CINZA, TINTA = "#2a78d6", "#eb6834", "#d9d9d6", "#1a1f1d"
 CORES_GRUPO = ["#2a78d6", "#eb6834", "#1baf7a", "#eda100", "#4a3aa7", "#e34948", "#008300", "#e87ba4"]
 
-st.set_page_config(page_title="COVID-19 SP — Painel Analítico", page_icon="📈", layout="wide")
+st.set_page_config(page_title="COVID-19 SP - Painel Analítico", page_icon="", layout="wide")
 
 
 # ────────────────────────────── dados ──────────────────────────────
