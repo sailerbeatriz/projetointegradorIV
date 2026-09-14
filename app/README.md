@@ -63,8 +63,8 @@ o que se mede é a capacidade do método de antecipá-los.
 
 Duas medidas, sempre juntas:
 
-- **cobertura** — proporção de picos precedidos por ao menos um alerta;
-- **taxa de alerta** — proporção de dias-município sinalizados, isto é, o custo em avisos
+- **cobertura** - proporção de picos precedidos por ao menos um alerta;
+- **taxa de alerta** - proporção de dias-município sinalizados, isto é, o custo em avisos
   a verificar.
 
 Cobertura alta com taxa de alerta alta não é mérito: avisar todos os dias "detecta" tudo.
