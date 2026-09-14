@@ -1,4 +1,4 @@
-# Painel COVID-19 — Estado de São Paulo
+# Painel COVID-19 - Estado de São Paulo
 
 Projeto Integrador em Computação IV (PJI410) — Universidade Virtual do Estado de São Paulo.
 
