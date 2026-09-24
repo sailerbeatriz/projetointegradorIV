@@ -1,0 +1,19 @@
+# Dados brutos: baixados pelo 01_preparar_dados.py, não versionados (77 MB)
+dados/dados_covid_sp.csv
+
+# Ambiente virtual
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
